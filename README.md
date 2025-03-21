@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&color=00FF00&lines=Hi+I'm+Shlok+Kamble!!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&color=00FF00&lines=Hi+I'm+Sneha+Hande!!" />
 </h1>
 
 
@@ -28,8 +28,8 @@
 <h2>Connect with Me</h2> 
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:2024.shlokk@isu.ac.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shlok-kamble-bb2152333/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:2024.sneham@isu.ac.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sneha-hande-237b39320/)
 
 
 
@@ -48,7 +48,7 @@
 </div>
 <h2>My contribution</h2>
 
-<img src="https://github.com/Shlok0505/snake/blob/main/github-user-contribution%20(1).svg" alt="GitHub Snake" width="4000">
+<img src="https://github.com/Snehahande05/snake/blob/main/github-user-contribution%20(1).svg" alt="GitHub Snake" width="4000">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
