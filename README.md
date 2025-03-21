@@ -52,14 +52,14 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=Shlok0505&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlok0505&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Shlok Kamble's Contribution Graph" width="900">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=Snehahande05&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehahande05&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Shlok Kamble's Contribution Graph" width="900">
 </a>
 
-</div><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shlok0505&show_icons=true&locale=en" alt="Shlok0505" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shlok0505&" alt="Shlok0505" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shlok0505&show_icons=true&locale=en&layout=compact" alt="Shlok0505" /></p>
+</div><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehahande05&show_icons=true&locale=en" alt="Snehahande05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Snehahande05&" alt="Snehahande05" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shlok0505&show_icons=true&locale=en&layout=compact" alt="Snehahande05" /></p>
 
 
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shlok0505" alt="Shlok0505" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Snehahande05" alt="Snehahande05" /></a></p>
